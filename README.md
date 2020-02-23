@@ -1,3 +1,5 @@
+![Alt text](https://github.com/PJ1288/pj-automate-1210/blob/master/images/Avatar.png)
+
 # pj-automate-1210
 This repository is all about DevOps/automation tools. 
 
