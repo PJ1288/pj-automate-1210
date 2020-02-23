@@ -5,7 +5,7 @@ Following modules are included:
 1. AWS\
     a. How to spin up EC2 resources in AWS.\
     b. How to spin up SNS topic and subscription in AWS.\
-    c. How to deploy cloudwatch alarms in AWS.\
+    c. How to deploy cloudwatch alarms in AWS.
 
 ## Documentation:
 [Terraform Openstack](https://www.terraform.io/docs/providers/openstack/index.html)\
