@@ -5,6 +5,8 @@ provider "openstack" {
 }
 
 #Include/Call the module
-module "upload-centos7-tempate" {
-  source = "../../modules/upload-centos7-template"
+module "compute-instances" {
+  source = "../../modules/compute-instances"
+  count  = 2
+  centos-image-id = "<image_id of the centos7 image created>"
 }
